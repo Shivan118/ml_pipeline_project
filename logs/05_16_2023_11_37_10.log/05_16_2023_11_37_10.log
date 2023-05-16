@@ -1,0 +1,5 @@
+[ 2023-05-16 11:37:10,097 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-16 11:37:10,107 ] 186 werkzeug - INFO -  * Debugger PIN: 135-155-834
+[ 2023-05-16 11:37:18,087 ] 14 root - INFO - Error occured in python script name [C:\Users\shiva\Documents\New_project_youtube\ml_pipeline_project\app.py] line number [11] erro message [we are testing our custom file]
+[ 2023-05-16 11:37:18,088 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 11:37:18] "GET / HTTP/1.1" 200 -
+[ 2023-05-16 11:37:18,201 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 11:37:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
